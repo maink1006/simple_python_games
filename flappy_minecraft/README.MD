@@ -1,6 +1,6 @@
 # Flappy Craft
 
-![Flappy Craft Gameplay](assets/screenshot.png)
+![Flappy Craft Gameplay](assets/game.png)
 
 **Flappy Craft** is a simple Flappy Bird-inspired game with a Minecraft-style design.
 
