@@ -1,4 +1,4 @@
-# Flappy Bird Clone
+# Flappy Bird 
 
 A classic Flappy Bird mini-game built with Python and Pygame, featuring retro visuals, smooth physics, score tracking, and authentic 8-bit sound effects.
 
